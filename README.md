@@ -28,6 +28,7 @@ Bachelor degree in Mathematics and Informatics Applied to Social and Human Scien
 - [Virtual Agent Vacuum Robot](https://github.com/tgll/virtual-agent-vacuum-robot)
 - [Theoretical computer science : Complex Numbers](https://github.com/tgll/complex-numbers)
 - [Programmation projects](https://github.com/tgll/3-coding-projects-games)
+- [Bachelor thesis research project](https://github.com/tgll/decisionmaking-tobiistudio)
 
 
 -------
@@ -50,6 +51,7 @@ Master degree in Human Computer Interactions and Design
 - [Vases Voices](https://github.com/tgll/vases-voices)
 - [ARt (AR mapping)](https://github.com/tgll/ARt)
 - [Sand Mirror](https://github.com/tgll/sand-mirror)
+- [Artificial Neural Networks](https://github.com/tgll/neuralnetworks-labs)
 - [Pre Attentive Experiment](https://github.com/tgll/pre-attentive-xp)
 - [Maze](https://github.com/tgll/dark-maze)
 - [Minesweeper](https://github.com/tgll/simple-minesweeper)
